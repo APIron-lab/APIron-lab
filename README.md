@@ -49,3 +49,6 @@ APIron-lab（アペイロン・ラボ）は、
 > _Forging imagination into form._
 
 ---
+
+🧩 *Tags:* `brand` · `open-source` · `tools`  
+🌐 *Description:* Turning ideas into tools — API × Apeiron × Iron
