@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="./APIron_Github_Haikei.svg" width="330">
 </p>
@@ -12,8 +11,8 @@
 ## 🜁 Philosophy
 APIron-lab is built on the convergence of three essences:
 
-- **API** — the structured connection, bridging systems and minds.  
-- **Apeiron** — the boundless, infinite source of all ideas.  
+- **API** — the structured connection, bridging systems and minds.
+- **Apeiron** — the boundless, infinite source of all ideas.
 - **Iron** — the element of form, strength, and realization.
 
 > To connect the infinite with the structured.  
@@ -97,7 +96,7 @@ High-precision multilingual token counter for OpenAI-compatible encodings.
 - Ideal for cost estimation and logging  
 
 **Links:**  
-- Docs (GitHub Pages): https://apiron-lab.github.io/apis/universal-token-counter.html  
+- Docs (GitHub Pages): https://apiron-l-lab.github.io/apis/universal-token-counter.html  
 - GitHub: https://github.com/APIron-lab/Universal-Token-Counter  
 - RapidAPI: https://rapidapi.com/APIronlab/api/universal-token-counter-utc
 
@@ -108,7 +107,7 @@ APIron-lab（アペイロン・ラボ）は、
 「接続（API）」「無限（Apeiron）」「構造（Iron）」をつなぐ技術ブランドです。
 
 哲学と工学、思考と構造を橋渡しし、  
-“発想を形にする” ための技術・道具・仕組みを開発しています。
+“発想を形にする”ための技術・道具・仕組みを開発しています。
 
 ---
 
@@ -119,4 +118,3 @@ APIron-lab（アペイロン・ラボ）は、
 
 🧩 *Tags:* `brand` · `open-source` · `tools`  
 🌐 *Description:* Turning ideas into tools — API × Apeiron × Iron
-```
