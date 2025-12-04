@@ -120,5 +120,3 @@ APIron-lab（アペイロン・ラボ）は、
 🧩 *Tags:* `brand` · `open-source` · `tools`  
 🌐 *Description:* Turning ideas into tools — API × Apeiron × Iron
 ```
-
----
